@@ -23,8 +23,6 @@
 @interface CDVDiscovery : CDVPlugin
 {}
 
-+ (NSString*)cordovaVersion;
-
 - (void)identify:(CDVInvokedUrlCommand*)command;
 
 @end

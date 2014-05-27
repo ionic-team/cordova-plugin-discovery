@@ -42,6 +42,8 @@
 
       <header-file src="src/ios/CDVDiscovery.h" />
       <source-file src="src/ios/CDVDiscovery.m" />
+      <header-file src="src/ios/GCDAsyncUdpSocket.h" />
+      <source-file src="src/ios/GCDAsyncUdpSocket.m" />
     </platform>
 
 </plugin>
